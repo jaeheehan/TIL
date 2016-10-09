@@ -46,8 +46,7 @@ __double underscores__
 ####### This is a 7.
 
 
-    This is an H2
-    -------------
-    
-     This is an H1
-    =============
+This is an H2
+-------------
+This is an H1
+=============
