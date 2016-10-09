@@ -23,9 +23,16 @@ Today I Learn...
 
 ---------------------------------------
 
+인라인 링크
 
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
+
+자동연결
+
+<http://example.com/>
+<address@example.com>
+
 
 *single asterisks*
 _single underscores_
