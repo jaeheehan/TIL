@@ -15,3 +15,5 @@ localhost
 ```
 
 ## xming 으로 테스트 하기 
+
+window 일 경우 xming으로 테스트 한다. 
