@@ -16,4 +16,8 @@ localhost
 
 ## xming 으로 테스트 하기 
 
-window 일 경우 xming으로 테스트 한다. 
+윈도우 서버(192.168.0.29) 
+
+window 일 경우 xming으로 테스트 한다.  
+
+![xming1](https://github.com/jaeheehan/TIL/blob/master/X11/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202016-10-11%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.50.50.png?raw=true)
