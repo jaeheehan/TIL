@@ -5,6 +5,7 @@ https://angular.io/docs/ts/latest/quickstart.html
 ```
 Error:(7, 20) TS2304: Cannot find name 'Promise'.
 Error:(7, 42) TS2304: Cannot find name 'Promise'.
+...
 ```
 
 사이트 찾아보니 
