@@ -13,3 +13,9 @@ Error:(7, 42) TS2304: Cannot find name 'Promise'.
 > npm install --save-dev @types/core-js
 
 오 된다.... 
+
+```
+app/app.component.ts(4,15): error TS2304: Cannot find name 'module'.
+```
+
+> npm install -D @types/node
