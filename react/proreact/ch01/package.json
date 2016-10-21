@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "hello world start",
   "author": "vkein",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --progress"
+  },
   "devDependencies": {
     "babel-core": "^5.8.*",
     "babel-loader": "^5.3.*",
