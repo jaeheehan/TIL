@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello React</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <div id="app">
+
+        </div>
+        <script src="https://unpkg.com/react@15/dist/react.min.js"></script>
+        <script src="https://unpkg.com/react-dom@15/dist/react-dom.min.js"></script>
+        <script>
+            ReactDOM.render(
+                    React.DOM.h1(
+                        {
+                            id:"my-heading",
+                            style:{
+                                background: "black",
+                                color: "white",
+                                fontFamily: "Verdana"
+                            }
+                        },
+                        React.DOM.span(null,
+                            React.DOM.em(null, "Hell"),
+                            "o"
+                        ),
+                        " World!"
+                    ),
+                    document.getElementById("app")
+            )
+        </script>
+    </body>
+</html>
