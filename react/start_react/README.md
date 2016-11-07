@@ -1,3 +1,3 @@
-BOOK Source
+> BOOK Source
 
->> https://github.com/stoyan/reactbook
+https://github.com/stoyan/reactbook
